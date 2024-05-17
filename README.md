@@ -1,6 +1,6 @@
 # Temperature-Converter
 
-This is simple but most reliable Tempreture Convter application to use for interchange temperature parameter in Degree Celsius, Kelvin & Fahrenheit in realtime. This website made using HTML, CSSk & JavaScript.
+This is simple but most reliable Temperature Converter application to use for interchange temperature parameter in Degree Celsius, Kelvin & Fahrenheit in realtime. This website made using HTML, CSSk & JavaScript.
 
 ## Features
 - Convert Real time Temperature Measurment Unit.
