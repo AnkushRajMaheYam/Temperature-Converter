@@ -5,6 +5,7 @@ This is simple but most reliable Temperature Converter application to use for in
 ## Features
 - Convert Real time Temperature Measurment Unit.
 - clear button to reset your data.
+
 ![Preview of Website](preview-of-temp.png)
 
 ## Usage:
